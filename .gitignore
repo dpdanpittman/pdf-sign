@@ -8,3 +8,5 @@ signature*
 .venv/
 __pycache__/
 .pytest_cache/
+# the README demo: an invented form and an invented signature (see README)
+!docs/demo.png

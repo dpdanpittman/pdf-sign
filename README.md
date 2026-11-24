@@ -3,6 +3,10 @@
 Places the signer's handwritten signature (and the date, and optionally their printed name) on ONE PDF,
 like signing a printed form. Ink on the page, not a digital certificate.
 
+![pdf-sign: look, plan with a preview, then apply after the signer says yes](docs/demo.png)
+
+_An invented form signed with an invented signature ("Sam Rivera" in a script font). File paths shortened._
+
 The rule it enforces: one named document at a time, only when the signer says so for that document,
 and the signer sees the preview before anything is signed.
 
